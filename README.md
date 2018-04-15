@@ -4,6 +4,7 @@ Build a working web application on Java SpringMVC(v), Mybatis(using spring JPA r
 Endpoints to manage products(v)
 Endpoints to manage cart(v)
 A README.md telling how it works.(v)
+Manual testing have been done through swagger-ui(v)
 
 TODO LIST:
 Automation Integration tests
